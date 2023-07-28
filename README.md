@@ -1,6 +1,5 @@
 # 👋 Vivek (VC) Chan
 
-![Banner Image](banner.png)
 
 ## 💼 Technology Consultant | 📊 Business Intelligence Expert | ⛓️ LLM Enthusiast
 
