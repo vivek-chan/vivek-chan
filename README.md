@@ -5,7 +5,7 @@
 
 ---
 
-Hello there! 👋 I'm Vivek, a seasoned Technology Consultant based in Delhi, India. With over a decade of experience in the tech industry, I specialize in leveraging cutting-edge technologies to solve complex business problems and drive digital transformation.
+Hello there! 👋 I'm Vivek, a Technology Consultant and Integrator based in Noida, India. With over a decade of experience in the tech industry, I specialize in leveraging cutting-edge technologies to solve complex business problems and drive digital transformation.
 
 ---
 
