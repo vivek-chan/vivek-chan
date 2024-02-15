@@ -1,4 +1,4 @@
-# 👋 Vivek (VC) Chan
+# 👋 Vivek (Chan) Singh Chandel
 
 
 ## 💼 Technology Consultant | 📊 Business Intelligence Expert | ⛓️ LLM Enthusiast
