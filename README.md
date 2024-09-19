@@ -412,7 +412,7 @@ I'm passionate about exploring the intersections of technology and business. My 
 
 ## 📫 Let's work Together
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vivekchan/) or drop me an email at vivek.sin.chan@gmail.com. Let's shape the future of technology together! 🚀
+Feel free to reach out to me on my [portfolio website](https://vivll.com/) or [LinkedIn](https://www.linkedin.com/in/vivekchan/) or drop me an email at vivek.sin.chan@gmail.com. Let's shape the future of technology together! 🚀
 
 
 
