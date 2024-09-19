@@ -220,9 +220,7 @@ I'm passionate about exploring the intersections of technology and business. My 
 - ![IPFS](https://img.shields.io/badge/-IPFS-9cf) **InterPlanetary File System (IPFS)**
 - ![Blockchain](https://img.shields.io/badge/-Blockchain-black) **Ethereum, Hyperledger**
 - ![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-lightblue) **Solidity**
-- ![DHT](https://img.shields.io
-
-/badge/-DHT-ff69b4) **Distributed Hash Table (DHT)**
+- ![DHT](https://img.shields.io/badge/-DHT-ff69b4) **Distributed Hash Table (DHT)**
 - ![Serverless](https://img.shields.io/badge/-Serverless-orange) **Serverless Architecture**
 - ![Docker](https://img.shields.io/badge/-Docker-blue) **Docker**
 - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blueviolet) **Kubernetes**
