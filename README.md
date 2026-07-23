@@ -5,6 +5,12 @@
 
 ---
 
+> **Now (2026):** Technology consultant in **JusticeTech & GovTech**, working on the digital transformation of India's courts and tribunals — e-Filing, digital case-management, AI-assisted legal research and Digital Public Infrastructure. Contributed to the **GSTAT e-Filing Portal**, India's first fully digital tax tribunal, and delivers faculty sessions and keynotes on GSTAT e-Filing (NACIN, ICAI, BCAS, FTCCI).
+>
+> 🌐 **Portfolio → [vivll.com](https://vivll.com)** · 💼 [LinkedIn](https://www.linkedin.com/in/vivekchan) · ✍️ [Medium](https://vivek-chan.medium.com)
+
+---
+
 Hello there! 👋 I'm Vivek, a Technology Consultant and Integrator based in Noida, India. With over a decade of experience in the tech industry, I specialize in leveraging cutting-edge technologies to solve complex business problems and drive digital transformation.
 
 ---
